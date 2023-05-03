@@ -1,5 +1,6 @@
 public class Question1 {
     static void myMethod() {
+
         System.out.println("I just got executed!");
     }
 
